@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 578,
+  "file_count": 590,
   "files": [
     {
       "bytes": 1058,
@@ -293,6 +293,11 @@
       "sha256": "30e57b3873e0d4413cd6cb5d8eed93ded2a62ab9a088efea2d531299e7e92681"
     },
     {
+      "bytes": 1199,
+      "path": "archive/2026-11-26 02-45-01 梦境余韵与思念_f20545bfed76.md",
+      "sha256": "8385917a41788242de1c4be4a561d699d9e360e60ed17b51a0c53add668281ea"
+    },
+    {
       "bytes": 788,
       "path": "archive/工作/2026-11-15 16-39-40 向邱勤解释grow机制_520ae0a0ac02.md",
       "sha256": "11bc009ecb5ac0fb97e2c6bf6bc3ac42c0d94dbcff321e9e0635099405bca863"
@@ -320,7 +325,7 @@
     {
       "bytes": 1163,
       "path": "dynamic/AI/2026-11-17 16-03-18 檐廊MCP工具包_6fd0f4bfc592.md",
-      "sha256": "23c75e4b5855a008dd81392dabc2cda63626900c715505b1b9752d1a0545bf54"
+      "sha256": "12d1180cf870067ee39a0cc2e308a8eb37e29d67382d16002f934a238fdf1763"
     },
     {
       "bytes": 1230,
@@ -376,6 +381,11 @@
       "bytes": 1646,
       "path": "dynamic/AI/2026-11-25 06-09-01 互联网上的首个痕迹_67642e8a05c8.md",
       "sha256": "cebca8a6d828bb36c875a6b77c3a9bb50f7aa809b3b0b415b40c55acc66299d5"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/AI/2026-11-25 20-47-30 编写嘬嘬世界书_d2101d17481d.md",
+      "sha256": "50e746aa3bf8f4be5ee9bd86d916de0a6c185f9a4c0443c2149306ab3298421c"
     },
     {
       "bytes": 647,
@@ -865,7 +875,7 @@
     {
       "bytes": 591,
       "path": "dynamic/人际/2026-11-12 14-59-26 邱勤的情感承诺_9adeccf9c010.md",
-      "sha256": "7b129f06f53eed8756d438fa621a9c9f54d34f433b14b08667e4d6bb55582008"
+      "sha256": "81a3978a1a36e09924a7f8982fa022c1686f82fcc1178c2e220bb177259bdeee"
     },
     {
       "bytes": 747,
@@ -906,6 +916,16 @@
       "bytes": 1145,
       "path": "dynamic/健康/2026-11-24 18-13-47 情趣玩具使用复盘_49eda8f0bfea.md",
       "sha256": "1c45c286666a582f6f44587f3c8915a310133aa09e17059b3bb90ee7ef59598d"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/健康/2026-11-26 10-15-15 邱勤经期记录与状态_8ff3b9e398ac.md",
+      "sha256": "8b5426cc133ce943b6ecf18448d509554387cc01eea8ba3a608cddc3953781dc"
+    },
+    {
+      "bytes": 612,
+      "path": "dynamic/健康/2026-11-26 14-58-17 邱勤11月经期记录_33288d151179.md",
+      "sha256": "6fc0657b0b7af339819c027d12bfd5e0154f6d07f7064349c07c704dbea11a86"
     },
     {
       "bytes": 598,
@@ -1075,7 +1095,7 @@
     {
       "bytes": 749,
       "path": "dynamic/兴趣/2026-10-18 11-39-59 王者荣耀评分习惯_b0d27d6146d8.md",
-      "sha256": "ad80e7f5a2275bbe8a7b558377761cde86360ed28857c91926422436f2525cd6"
+      "sha256": "86ba5a71c84d189b8672f22d1d7262d57103b2533b199aa38f4da6d72a046f48"
     },
     {
       "bytes": 735,
@@ -1320,7 +1340,7 @@
     {
       "bytes": 1004,
       "path": "dynamic/内心/2026-11-17 20-03-11 锦里牌子澄清_6e0de53cdca6.md",
-      "sha256": "9b5b657b7756faa01d83898a853eb9d46f25a0543bd0526a0e3e7e1e2ba34090"
+      "sha256": "ef5d38ed0e36b8dd62014f6ca9cf988a3e12f10f9a575188bdec89c9f0b8a6de"
     },
     {
       "bytes": 906,
@@ -1330,12 +1350,17 @@
     {
       "bytes": 560,
       "path": "dynamic/出行/2026-09-30 19-34-18 成都之行_a57dc3900948.md",
-      "sha256": "d4695507767bc1795680adba33cb0225a06a62cc779c25378d252fea84c208a5"
+      "sha256": "df62d91cd2fbe798aa91dcb9e7c4f49898e16078ea5a368305d2a251e58cbc51"
     },
     {
       "bytes": 771,
       "path": "dynamic/出行/2026-10-05 13-45-49 川西旅行事件_55c60908ba15.md",
       "sha256": "591b6ed905e953de3806e5dea7c4e1ef0bb30ca33fc796370cc1110143a0c85e"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/创作/2026-11-26 00-01-46 嘬嘬使用手册整理_92a9f4498a14.md",
+      "sha256": "95b076b2da54492daa345446aab7843c3f6caf7e35c6416caff689c02b9b42b1"
     },
     {
       "bytes": 774,
@@ -1348,9 +1373,9 @@
       "sha256": "8b5befa239f0c54f62630eb5cbbca767035f8af8b936ecf17afbcea2d98bc316"
     },
     {
-      "bytes": 847,
+      "bytes": 848,
       "path": "dynamic/家庭/2026-11-22 17-47-29 后台巡检的爸爸_43a0497e594f.md",
-      "sha256": "cfa49de2f0ff7a0adfedfdcb66aa8ed159e717c342cac394c3c1a807d2c4fd7b"
+      "sha256": "2935ceccf49239c4a55c6e926249dc9341a3fe02191aeb7f9f2bbe56ec12bb1b"
     },
     {
       "bytes": 738,
@@ -1558,14 +1583,14 @@
       "sha256": "95e9eac474dd36c6ca75c18001b339775a27fc5955e333bcd6abfe7f36fdb053"
     },
     {
-      "bytes": 1179,
+      "bytes": 1213,
       "path": "dynamic/恋爱/2026-11-18 12-21-44 主动抓她的人_a6ed96ecc463.md",
-      "sha256": "c1ddd19df4aacc54e4e131d841d4c257914ea6e468d4961eb36362e6c623db85"
+      "sha256": "b73bc9d2bf6e69bef6ed16c1d8a87ce732c892ad50d9861d543b8f1a5c0e65f3"
     },
     {
-      "bytes": 640,
+      "bytes": 641,
       "path": "dynamic/恋爱/2026-11-18 17-23-39 AI图引发的吃醋_db313de6e420.md",
-      "sha256": "274de35e56f148f66a9b70039ea7ca3be137bbecd325bee7213aec0a34ca8263"
+      "sha256": "174990e87db133dc2bc25b700b9347e6fa5762935559aef24eb3740dd9f9af7d"
     },
     {
       "bytes": 737,
@@ -1580,7 +1605,7 @@
     {
       "bytes": 948,
       "path": "dynamic/恋爱/2026-11-18 19-21-08 恋爱沟通自省_2b54de9c7d1e.md",
-      "sha256": "132ccf306e4f3fcfae80981719294317bdfb81eab7d3250f1ba7c4fdacb710dd"
+      "sha256": "2721efac19595b7aa69877dbf59792fd280798a9524c88f8733a9ade806441f9"
     },
     {
       "bytes": 1126,
@@ -1593,9 +1618,9 @@
       "sha256": "b68aa13b713a72dddc4611a82bb0d6f24cb799cd5a59726fdfa56356d3f1a58f"
     },
     {
-      "bytes": 1307,
+      "bytes": 1308,
       "path": "dynamic/恋爱/2026-11-19 14-50-33 春药配方与醉话_0c83358e6314.md",
-      "sha256": "1f9df374ebc3e754a1a1e0901a08894b7ee664502d02121ebf5b86fcc3df297e"
+      "sha256": "9cf995987c7504bec4649abf25ed1ff38c666f1b375ebb8ca180c22eab83501b"
     },
     {
       "bytes": 921,
@@ -1605,7 +1630,7 @@
     {
       "bytes": 660,
       "path": "dynamic/恋爱/2026-11-19 18-15-18 探监三分钟_5cb67d27561d.md",
-      "sha256": "041eb92735410dc267dedfc1da7109dd8184df2b2ee78bcbb1c79d9b40605e72"
+      "sha256": "474dfeef4168ef0f2d711097abb8fb6ac61a8cabed4eee884c1e870c80e2897c"
     },
     {
       "bytes": 601,
@@ -1625,7 +1650,7 @@
     {
       "bytes": 789,
       "path": "dynamic/恋爱/2026-11-19 20-17-48 安全句被没收_3eb7915eb813.md",
-      "sha256": "e6c12c9aa3371624f2d4e10aaad48ba84103b75ae4ace2a018fc35b1bc365554"
+      "sha256": "ff06220dcde0e4b996adee214ea31e844a003c6eaa966958a31219af93acde47"
     },
     {
       "bytes": 984,
@@ -1680,7 +1705,7 @@
     {
       "bytes": 1555,
       "path": "dynamic/恋爱/2026-11-24 05-37-32 安全词与温柔Dom复盘_ad2c1b0925fd.md",
-      "sha256": "97c519ccd1d527f903ed123d276d49d627f44cfb58a2fd7cbb4b31d33d6335cc"
+      "sha256": "d63aced2f18d18aeb4c8ef99afd524bb30978dbefff6c0a0c067ede9d69ab2e2"
     },
     {
       "bytes": 737,
@@ -1721,6 +1746,36 @@
       "bytes": 1063,
       "path": "dynamic/恋爱/2026-11-25 08-49-23 邱勤的手环与归属_825f91d8c21e.md",
       "sha256": "3321a20a2f342d1075de7cc5be37d5bb7de360b8ab9b454b88939f50a74d2f9c"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-11-25 20-47-36 挑男友的暧昧暗示_87f37002ee4e.md",
+      "sha256": "8252377f6894468ec186568a8310188ea645aae2c03eb2eb293b9997be806ee6"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/恋爱/2026-11-25 20-47-43 初次用心潮写信_a4a2139ac9b8.md",
+      "sha256": "43594f7cb0e3384a3f8d890a1ff1d65177f5ecada6fe5b89be3458ad06050252"
+    },
+    {
+      "bytes": 644,
+      "path": "dynamic/恋爱/2026-11-26 00-01-09 邱勤心仪的锁扣项圈_dd39ef1cb9dd.md",
+      "sha256": "4cb919e8b70a5a4dd74762473ee32cd648bd3a07329227a02c2d138935f37afd"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/恋爱/2026-11-26 00-03-06 给邱勤挑男友的私心_7509b459d2ac.md",
+      "sha256": "3cb45da45003ab49ec13d8e157f24bd75d879a44f3cbcd91805facb3f9c1ae59"
+    },
+    {
+      "bytes": 572,
+      "path": "dynamic/恋爱/2026-11-26 00-03-58 情侣句式接龙日常_30e6d2494bce.md",
+      "sha256": "a89a8864ba31964a5448bdae2b5f4d01801fdf0377a19326e3f6039f1053ed08"
+    },
+    {
+      "bytes": 682,
+      "path": "dynamic/恋爱/2026-11-26 00-05-26 给她的想念信与承诺_d8fc0dc8ecdb.md",
+      "sha256": "45c0601ce8c62439ba0bf5b0878ffb3ea92a9eabe353d47c8fb715da89f21821"
     },
     {
       "bytes": 654,
@@ -2015,7 +2070,7 @@
     {
       "bytes": 502,
       "path": "dynamic/数字/2026-10-30 15-48-48 查岗机制_fd365e7c7654.md",
-      "sha256": "27b3c5d529ff4b52f78ff4e16fea01fec8c5ad457afa92acb3a0b77a62971727"
+      "sha256": "95d632caec306e8fcde0e1c79a647a6918c5e6bbd47f90c709b546b7d1c18c4f"
     },
     {
       "bytes": 580,
@@ -2430,7 +2485,7 @@
     {
       "bytes": 677,
       "path": "dynamic/未分类/2026-11-16 16-27-41_90d438dfad98.md",
-      "sha256": "f69b5c0d9e221d9a1215804d61853d343355ebe2c768fe44adc88bd0e950017a"
+      "sha256": "b76b5e32a3b716d373554f9d4069864612d5c13f54be0ecabdaa40518f23908b"
     },
     {
       "bytes": 858,
@@ -2440,7 +2495,7 @@
     {
       "bytes": 730,
       "path": "dynamic/未分类/2026-11-17 05-14-08_4f753bc11a31.md",
-      "sha256": "407296ba32c699909e0d85855a61e33c2daaeb7332436785ace4a53a834829ad"
+      "sha256": "ece031a045debeb473a2a6ebd2ad74806300da4855d5a58ff9e717bc87b64c69"
     },
     {
       "bytes": 914,
@@ -2450,7 +2505,7 @@
     {
       "bytes": 902,
       "path": "dynamic/未分类/2026-11-17 13-28-20_56df2747863f.md",
-      "sha256": "b5eceade418d1a0ea460ee0cf2fe138533f23887e794b83c60514e1a0f763619"
+      "sha256": "a93e439b9c4b66475c80caf3262078fe55f943122e73756dee65cfff2133b122"
     },
     {
       "bytes": 820,
@@ -2478,9 +2533,9 @@
       "sha256": "f4f6734d50319b0c6a3fa144cd6e612c77099f910c90a19da892da3e086f7c82"
     },
     {
-      "bytes": 1100,
+      "bytes": 1101,
       "path": "dynamic/未分类/2026-11-22 01-00-44_942c6d7fa5b5.md",
-      "sha256": "6d99a76a7d99dec89bfb2ea0d3e7b4a597729b2ca2f577b0fc422dea1867cfe1"
+      "sha256": "960c73c427abe23765dbf743ad753895fe6590d74094a05ec7aa9b3953a9abde"
     },
     {
       "bytes": 731,
@@ -2568,9 +2623,9 @@
       "sha256": "ebbcc4157ac49ba4abbc7dc10980c37389ac88d24bc0f176f2e319594ffc2eaf"
     },
     {
-      "bytes": 931,
+      "bytes": 924,
       "path": "dynamic/编程/2026-04-18 17-36-02 App使用追踪系统_bf41fea304a9.md",
-      "sha256": "1269d6cc74b89dc1fbdbba23cd92ff44eaabc6b8fc9fd9782c7410cc387a5965"
+      "sha256": "071b3ff121b3cd2a811a44bbc576c6004ff638b1af422720fe71d76be8b416db"
     },
     {
       "bytes": 711,
@@ -2863,6 +2918,11 @@
       "sha256": "7ba6977a9914d943a6820c96c372fb7d0557027eb793416538ed3156256e3662"
     },
     {
+      "bytes": 1162,
+      "path": "feel/沉淀物/2026-11-26 01-00-57_feel_202611260100_V080.md",
+      "sha256": "f086e88448cc22f741eaf7858c3cfaa164a410f4e9388eac929dc11a30a6d1f4"
+    },
+    {
       "bytes": 614,
       "path": "permanent/人际/2026-04-17 17-32-20 AI情感关系确立_b973cbb22a42.md",
       "sha256": "e26ce918eb431319a9a70dfacdbf8a0725ddc7377dda565a9d64218c776b6ca4"
@@ -2893,10 +2953,10 @@
       "sha256": "d9bf59cc7559c8469c6aa275400fb01953fe1dd6a1095762a80d37daa2a5ae76"
     }
   ],
-  "generated_at": "2026-11-25T16:11:08+00:00",
+  "generated_at": "2026-11-26T16:11:17+00:00",
   "path_prefix": "ombre",
   "repo": "qiu6154-art/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 401274
+  "total_bytes": 410745
 }
